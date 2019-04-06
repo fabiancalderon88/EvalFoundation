@@ -1,0 +1,17 @@
+body{
+  background-image: url(../img/Fondo.jpg);
+  background-attachment: fixed;
+  overflow: scroll;
+}
+
+.row-contenedor{
+ background-color:rgba(212,232,241,0.8);
+}
+
+.img-food{
+  width: auto;
+}
+
+.color-title{
+  color: rgb(180,69,58);
+}
